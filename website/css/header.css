@@ -13,13 +13,13 @@
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  background: url("http://i65.tinypic.com/4io1w6.jpg") center center no-repeat;
+  background: url("http://i64.tinypic.com/21ovjhy.jpg") center center no-repeat;
   background-size: cover;
 }
 
 .hero-full-screen .middle-content-section {
   text-align: center;
-  color: #fefefe;
+  color: #FADBD8;
 }
 
 .hero-full-screen .top-content-section {
@@ -33,7 +33,7 @@
 .hero-full-screen .bottom-content-section svg {
   height: 3.75rem;
   width: 3.75rem;
-  fill: #fefefe;
+  fill: #FADBD8;
 }
 
 .hero-full-screen .top-bar {
@@ -45,7 +45,7 @@
 }
 
 .hero-full-screen .top-bar .menu-text {
-  color: #fefefe;
+  color: #FADBD8;
 }
 
 .hero-full-screen .top-bar .menu li {
@@ -58,6 +58,6 @@
 }
 
 .hero-full-screen .top-bar .menu a {
-  color: #fefefe;
+  color: #FADBD8;
   font-weight: bold;
 }
